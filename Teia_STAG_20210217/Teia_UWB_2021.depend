@@ -1,0 +1,2897 @@
+# depslib dependency file v1.0
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.c
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"nrf_error.h"
+	"app_util_platform.h"
+	"softdevice_handler.h"
+	"nrf_sdm.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_common.h
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdk_config.h"
+	"nordic_common.h"
+	"compiler_abstraction.h"
+	"sdk_os.h"
+	"sdk_errors.h"
+	"app_util.h"
+	"sdk_macros.h"
+
+1584860646 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\config\sdk_config.h
+	"app_config.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nordic_common.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\compiler_abstraction.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_os.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util.h
+	<stdint.h>
+	<stdbool.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf.h
+	"nrf51.h"
+	"nrf51_bitfields.h"
+	"nrf51_deprecated.h"
+	"nrf52840.h"
+	"nrf52840_bitfields.h"
+	"nrf51_to_nrf52840.h"
+	"nrf52_to_nrf52840.h"
+	"nrf52.h"
+	"nrf52_bitfields.h"
+	"nrf51_to_nrf52.h"
+	"nrf52_name_change.h"
+	"compiler_abstraction.h"
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51.h
+	"core_cm0.h"
+	"system_nrf51.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc.h
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc_v6.h
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_gcc.h
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf51.h
+	<stdint.h>
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_bitfields.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_deprecated.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840.h
+	"core_cm4.h"
+	"system_nrf52840.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52840.h
+	<stdint.h>
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_bitfields.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52840.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_to_nrf52840.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52.h
+	"core_cm4.h"
+	"system_nrf52.h"
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52.h
+	<stdint.h>
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_bitfields.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52.h
+
+1493957452 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_name_change.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_macros.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_assert.h"
+	"nrf_clock.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error_weak.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_clock.h
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_soc.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_svc.h
+	"stdint.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_soc.h
+	"nrf_error.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_nvic.h
+	<stdint.h>
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493961056 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.h
+	<stdlib.h>
+	"nordic_common.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"ble_stack_handler_types.h"
+	"ant_stack_handler_types.h"
+	"ble.h"
+	"app_ram_base.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_sdm.h
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_error_sdm.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_sdm.h
+	"nrf_error.h"
+
+1493961056 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ble_stack_handler_types.h
+	<stdlib.h>
+	"ble.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"sdk_config.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble.h
+	"ble_ranges.h"
+	"ble_types.h"
+	"ble_gap.h"
+	"ble_l2cap.h"
+	"ble_gatt.h"
+	"ble_gattc.h"
+	"ble_gatts.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_ranges.h
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_types.h
+	<stdint.h>
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_l2cap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_err.h"
+	"nrf_svc.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_err.h
+	"nrf_error.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatt.h
+	"ble_types.h"
+	"ble_ranges.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gattc.h
+	"ble_gatt.h"
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+	"nrf_error.h"
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatts.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_l2cap.h"
+	"ble_gap.h"
+	"ble_gatt.h"
+	"nrf_svc.h"
+
+1493961056 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ant_stack_handler_types.h
+	<stdlib.h>
+	<stdint.h>
+
+1493961056 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\app_ram_base.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log.h
+	"sdk_config.h"
+	"nrf_log_internal.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_ctrl.h
+	"sdk_config.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"nrf_log_ctrl_internal.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_ctrl_internal.h
+	"sdk_common.h"
+	"app_util_platform.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.c
+	<stddef.h>
+	"nrf_drv_common.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_peripherals.h"
+	"nrf_drv_power.h"
+	"nrf_drv_clock.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_peripherals.h
+	"nrf51422_peripherals.h"
+	"nrf51802_peripherals.h"
+	"nrf51822_peripherals.h"
+	"nrf52832_peripherals.h"
+	"nrf52840_peripherals.h"
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51422_peripherals.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51802_peripherals.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51822_peripherals.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52832_peripherals.h
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_peripherals.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.h
+	<stdbool.h>
+	<stdint.h>
+	"nrf_power.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_power.h
+	"nrf.h"
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_assert.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.c
+	"sdk_common.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_assert.h"
+	"nrf_bitmask.h"
+	<string.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.h
+	"nrf_gpiote.h"
+	"nrf_gpio.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"sdk_config.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpiote.h
+	"nrf_peripherals.h"
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpio.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	"nrf_assert.h"
+	<stdbool.h>
+	<stdlib.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_bitmask.h
+	"compiler_abstraction.h"
+	<stdint.h>
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.c
+	<stdbool.h>
+	"nrf.h"
+	"nrf_nvmc.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.h
+	<stdint.h>
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.c
+	"sdk_config.h"
+	"nrf_saadc.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.c
+	"sdk_config.h"
+	"nrf_drv_power.h"
+	"nrf_assert.h"
+	"nordic_common.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.c
+	"sdk_common.h"
+	"nrf_drv_rtc.h"
+	"nrf_rtc.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.h
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_drv_common.h"
+	"nrf_rtc.h"
+	"sdk_errors.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_rtc.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_peripherals.h"
+
+1594781428 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.c
+	"sdk_common.h"
+	"nrf_drv_saadc.h"
+	"nrf_assert.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.h
+	"sdk_config.h"
+	"nrf_saadc.h"
+	"sdk_errors.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.c
+	"sdk_common.h"
+	"nrf_drv_spi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_peripherals.h"
+	"nrf_spi.h"
+	"nrf_spim.h"
+	"sdk_errors.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spi.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spim.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.c
+	"sdk_common.h"
+	"nrf_drv_twi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_delay.h"
+	<stdio.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_twi.h"
+	"nrf_twim.h"
+	"sdk_errors.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twi.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf_peripherals.h"
+	"nrf.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twim.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\delay\\nrf_delay.h
+	"nrf.h"
+
+1613546881 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\nrf_drv_uart.c
+	"sdk_common.h"
+	"nrf_drv_uart.h"
+	"nrf_assert.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"app_util_platform.h"
+	"nrf_uart.h"
+	"app_uart.h"
+	"../../Teia_STAG_20210217/main.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1585797850 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\nrf_drv_uart.h
+	"nrf_uart.h"
+	"nrf_uarte.h"
+	"sdk_errors.h"
+	"sdk_config.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uart.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uarte.h
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1585793566 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.h
+	<stdint.h>
+	<stdbool.h>
+	"app_util_platform.h"
+
+1610267614 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\main.h
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.c
+	"sdk_common.h"
+	"nrf_drv_wdt.h"
+	"nrf_drv_common.h"
+	"nrf_error.h"
+	"nrf_assert.h"
+	"nrf_wdt.h"
+	"app_util_platform.h"
+	<stdbool.h>
+	<stdint.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_wdt.h"
+	"sdk_config.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_wdt.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.c
+	"nrf_dfu_mbr.h"
+	"nrf_mbr.h"
+	"nrf_dfu_types.h"
+	"nrf_log.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.h
+	<stdint.h>
+
+1493957430 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf52\nrf_mbr.h
+	"nrf_svc.h"
+	<stdint.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_types.h
+	<stdint.h>
+	<stddef.h>
+	"nrf_mbr.h"
+	"nrf_sdm.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.c
+	"sdk_common.h"
+	"app_fifo.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.h
+	<stdint.h>
+	<stdlib.h>
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_backend_serial.c
+	"sdk_common.h"
+	"nrf_log_backend.h"
+	"nrf_error.h"
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<SEGGER_RTT_Conf.h>
+	<SEGGER_RTT.h>
+	"nrf_drv_uart.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_backend.h
+	"nrf_log_ctrl.h"
+	"sdk_errors.h"
+	<stdbool.h>
+
+1493957434 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1585797850 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\\nrf_drv_uart.h
+	"nrf_uart.h"
+	"nrf_uarte.h"
+	"sdk_errors.h"
+	"sdk_config.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_frontend.c
+	"sdk_common.h"
+	"app_util.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_internal.h"
+	"nrf_log_backend.h"
+	"nrf_log_ctrl.h"
+	<string.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.c
+	"sdk_common.h"
+	"mem_manager.h"
+	"nrf_assert.h"
+	"nrf_log.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.h
+	"sdk_common.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.c
+	"sdk_common.h"
+	"app_uart.h"
+	"nrf_drv_uart.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.c
+	"nrf.h"
+	<stdio.h>
+	"app_error.h"
+	"nordic_common.h"
+	"sdk_errors.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nordic_common.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.h
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.c
+	"app_error.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.c
+	"app_util_platform.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c
+	"nrf_assert.h"
+	"app_error.h"
+	"nordic_common.h"
+
+1493961054 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.c
+	"sdk_errors.h"
+	"nordic_common.h"
+
+1493961056 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.c
+	"softdevice_handler.h"
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"app_error.h"
+	"nrf_drv_rng.h"
+	"nrf_log.h"
+	"ant_interface.h"
+	"ant_interface.h"
+	"ble.h"
+
+1493957450 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.c
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"system_nrf52.h"
+
+1493957450 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.h
+	<stdint.h>
+
+1493957434 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\rtt_syscalls_gcc.c
+	<stdlib.h>
+	"SEGGER_RTT.h"
+
+1493957434 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1493957434 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.c
+	"SEGGER_RTT.h"
+	<string.h>
+
+1493957434 source:c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_printf.c
+	"SEGGER_RTT.h"
+	"SEGGER_RTT_Conf.h"
+	<stdlib.h>
+	<stdarg.h>
+
+1613641449 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\application\teia_routines.c
+	<stdlib.h>
+	<string.h>
+	"Teia_routines.h"
+	"../platform/peripheral.h"
+	"../platform/timing.h"
+	"../platform/DWM_routines.h"
+	"../Teia_var.h"
+	"nrf.h"
+	"LIS2DH12.h"
+	"nrf_peripherals.h"
+	"../drivers/radios/DWM/deca_device_api.h"
+	"nrf_delay.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"../../Teia_STAG_20210217/main.h"
+	"app_uart.h"
+
+1613619873 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\application\teia_routines.h
+	<stdbool.h>
+	<stdint.h>
+
+1610239176 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\peripheral.h
+	<stdint.h>
+	<stdbool.h>
+	<stddef.h>
+	"app_uart.h"
+
+1610239292 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\timing.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_config.h"
+
+1610238920 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\dwm_routines.h
+	<stdint.h>
+	<stdbool.h>
+
+1613615680 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\teia_var.h
+	<stdint.h>
+	<stdbool.h>
+	"platform/setting.h"
+
+1610239212 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\setting.h
+
+1610239004 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\sensors\lis2dh12.h
+	<stdbool.h>
+	<stdint.h>
+
+1610267222 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_device_api.h
+	<stdint.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\\nrf_drv_gpiote.h
+	"nrf_gpiote.h"
+	"nrf_gpio.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"sdk_config.h"
+
+1613627910 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_device.c
+	<stdio.h>
+	"deca_types.h"
+	"deca_param_types.h"
+	"deca_regs.h"
+	"deca_device_api.h"
+	"../../../platform/timing.h"
+	"../../../main.h"
+
+1610264362 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_types.h
+
+1610264226 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_param_types.h
+	"deca_types.h"
+
+1610238806 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_regs.h
+	"deca_version.h"
+
+1610238876 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_version.h
+
+1610264198 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_params_init.c
+	<stdio.h>
+	<stdlib.h>
+	"deca_regs.h"
+	"deca_device_api.h"
+	"deca_param_types.h"
+
+1610264326 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_range_tables.c
+	<stdio.h>
+	<stdlib.h>
+	"deca_device_api.h"
+	"deca_param_types.h"
+
+1613547034 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\drivers\sensors\lis2dh12.c
+	"LIS2DH12.h"
+	"../../Teia_var.h"
+	"../../platform/peripheral.h"
+
+1578379064 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\gcc_startup_nrf52.s
+	"startup_config.h"
+
+1613620069 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"peripheral.h"
+	"Teia_routines.h"
+	"Teia_var.h"
+	"timing.h"
+	"main.h"
+	"../drivers/radios/DWM/deca_device_api.h"
+	"app_util_platform.h"
+	"app_uart.h"
+
+1613637155 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\dwm_routines.c
+	"DWM_routines.h"
+	"peripheral.h"
+	"timing.h"
+	"../Teia_var.h"
+	<string.h>
+	"../drivers/radios/DWM/deca_device_api.h"
+	"../drivers/radios/DWM/deca_regs.h"
+	"../../../main.h"
+
+1613552544 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\peripheral.c
+	"peripheral.h"
+	"setting.h"
+	"port_def.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_spi.h"
+	"nrf_drv_twi.h"
+	"nrf_drv_clock.h"
+	"nrf_drv_rtc.h"
+	"nrf_drv_power.h"
+	"nrf_drv_wdt.h"
+	"nrf_drv_saadc.h"
+	"nrf_nvmc.h"
+	<string.h>
+	<stdarg.h>
+	"SEGGER_RTT.h"
+	"timing.h"
+	"../Teia_var.h"
+	"app_uart.h"
+	"app_error.h"
+	"nrf_delay.h"
+	"nrf.h"
+	"bsp.h"
+	"../drivers/radios/DWM/deca_device_api.h"
+
+1610265170 c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\port_def.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\\nrf_drv_spi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_peripherals.h"
+	"nrf_spi.h"
+	"nrf_spim.h"
+	"sdk_errors.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_nvmc.h
+	<stdint.h>
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bsp\\bsp.h
+	<stdint.h>
+	<stdbool.h>
+	"boards.h"
+	"app_button.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\boards.h
+	"nrf_gpio.h"
+	"nrf6310.h"
+	"pca10000.h"
+	"pca10001.h"
+	"pca10000.h"
+	"pca10003.h"
+	"pca20006.h"
+	"pca10028.h"
+	"pca10031.h"
+	"pca10036.h"
+	"pca10040.h"
+	"pca10056.h"
+	"wt51822.h"
+	"n5_starterkit.h"
+	"d52_starterkit.h"
+	"arduino_primo.h"
+	"custom_board.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\nrf6310.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10000.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10001.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10003.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca20006.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10028.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10031.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10036.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10040.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10056.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\wt51822.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\n5_starterkit.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\d52_starterkit.h
+	"nrf_gpio.h"
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\arduino_primo.h
+
+1493961054 c:\users\user\desktop\rename\teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\button\\app_button.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"app_error.h"
+	"nrf_gpio.h"
+
+1613547034 source:c:\users\user\desktop\rename\teia_stag_001v\teia_stag_20210217\platform\timing.c
+	"timing.h"
+	"peripheral.h"
+	"nrf_drv_rtc.h"
+	"nrf_delay.h"
+	"../Teia_var.h"
+	<stdlib.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.c
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"nrf_error.h"
+	"app_util_platform.h"
+	"softdevice_handler.h"
+	"nrf_sdm.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_common.h
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdk_config.h"
+	"nordic_common.h"
+	"compiler_abstraction.h"
+	"sdk_os.h"
+	"sdk_errors.h"
+	"app_util.h"
+	"sdk_macros.h"
+
+1584860646 c:\(202)__teia_stag_001v\teia_stag_20210217\config\sdk_config.h
+	"app_config.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nordic_common.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\compiler_abstraction.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_os.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util.h
+	<stdint.h>
+	<stdbool.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf.h
+	"nrf51.h"
+	"nrf51_bitfields.h"
+	"nrf51_deprecated.h"
+	"nrf52840.h"
+	"nrf52840_bitfields.h"
+	"nrf51_to_nrf52840.h"
+	"nrf52_to_nrf52840.h"
+	"nrf52.h"
+	"nrf52_bitfields.h"
+	"nrf51_to_nrf52.h"
+	"nrf52_name_change.h"
+	"compiler_abstraction.h"
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51.h
+	"core_cm0.h"
+	"system_nrf51.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc.h
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc_v6.h
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_gcc.h
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf51.h
+	<stdint.h>
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_bitfields.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_deprecated.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840.h
+	"core_cm4.h"
+	"system_nrf52840.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52840.h
+	<stdint.h>
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_bitfields.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52840.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_to_nrf52840.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52.h
+	"core_cm4.h"
+	"system_nrf52.h"
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52.h
+	<stdint.h>
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_bitfields.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52.h
+
+1493957452 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_name_change.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_macros.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_assert.h"
+	"nrf_clock.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error_weak.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_clock.h
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_soc.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_svc.h
+	"stdint.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_soc.h
+	"nrf_error.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_nvic.h
+	<stdint.h>
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493961056 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.h
+	<stdlib.h>
+	"nordic_common.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"ble_stack_handler_types.h"
+	"ant_stack_handler_types.h"
+	"ble.h"
+	"app_ram_base.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_sdm.h
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_error_sdm.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_sdm.h
+	"nrf_error.h"
+
+1493961056 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ble_stack_handler_types.h
+	<stdlib.h>
+	"ble.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"sdk_config.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble.h
+	"ble_ranges.h"
+	"ble_types.h"
+	"ble_gap.h"
+	"ble_l2cap.h"
+	"ble_gatt.h"
+	"ble_gattc.h"
+	"ble_gatts.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_ranges.h
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_types.h
+	<stdint.h>
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_l2cap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_err.h"
+	"nrf_svc.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_err.h
+	"nrf_error.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatt.h
+	"ble_types.h"
+	"ble_ranges.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gattc.h
+	"ble_gatt.h"
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+	"nrf_error.h"
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatts.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_l2cap.h"
+	"ble_gap.h"
+	"ble_gatt.h"
+	"nrf_svc.h"
+
+1493961056 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ant_stack_handler_types.h
+	<stdlib.h>
+	<stdint.h>
+
+1493961056 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\app_ram_base.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log.h
+	"sdk_config.h"
+	"nrf_log_internal.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_ctrl.h
+	"sdk_config.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"nrf_log_ctrl_internal.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_ctrl_internal.h
+	"sdk_common.h"
+	"app_util_platform.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.c
+	<stddef.h>
+	"nrf_drv_common.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_peripherals.h"
+	"nrf_drv_power.h"
+	"nrf_drv_clock.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_peripherals.h
+	"nrf51422_peripherals.h"
+	"nrf51802_peripherals.h"
+	"nrf51822_peripherals.h"
+	"nrf52832_peripherals.h"
+	"nrf52840_peripherals.h"
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51422_peripherals.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51802_peripherals.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51822_peripherals.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52832_peripherals.h
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_peripherals.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.h
+	<stdbool.h>
+	<stdint.h>
+	"nrf_power.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_power.h
+	"nrf.h"
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_assert.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.c
+	"sdk_common.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_assert.h"
+	"nrf_bitmask.h"
+	<string.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.h
+	"nrf_gpiote.h"
+	"nrf_gpio.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"sdk_config.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpiote.h
+	"nrf_peripherals.h"
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpio.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	"nrf_assert.h"
+	<stdbool.h>
+	<stdlib.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_bitmask.h
+	"compiler_abstraction.h"
+	<stdint.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.c
+	<stdbool.h>
+	"nrf.h"
+	"nrf_nvmc.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.h
+	<stdint.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.c
+	"sdk_config.h"
+	"nrf_saadc.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.c
+	"sdk_config.h"
+	"nrf_drv_power.h"
+	"nrf_assert.h"
+	"nordic_common.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.c
+	"sdk_common.h"
+	"nrf_drv_rtc.h"
+	"nrf_rtc.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.h
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_drv_common.h"
+	"nrf_rtc.h"
+	"sdk_errors.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_rtc.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_peripherals.h"
+
+1594781428 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.c
+	"sdk_common.h"
+	"nrf_drv_saadc.h"
+	"nrf_assert.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.h
+	"sdk_config.h"
+	"nrf_saadc.h"
+	"sdk_errors.h"
+	"nrf_drv_common.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.c
+	"sdk_common.h"
+	"nrf_drv_spi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_peripherals.h"
+	"nrf_spi.h"
+	"nrf_spim.h"
+	"sdk_errors.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spi.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spim.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.c
+	"sdk_common.h"
+	"nrf_drv_twi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_delay.h"
+	<stdio.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_twi.h"
+	"nrf_twim.h"
+	"sdk_errors.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twi.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf_peripherals.h"
+	"nrf.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twim.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\delay\\nrf_delay.h
+	"nrf.h"
+
+1615091404 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\nrf_drv_uart.c
+	"sdk_common.h"
+	"nrf_drv_uart.h"
+	"nrf_assert.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"app_util_platform.h"
+	"nrf_uart.h"
+	"app_uart.h"
+	"../../Teia_STAG_20210217/main.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1585797850 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\nrf_drv_uart.h
+	"nrf_uart.h"
+	"nrf_uarte.h"
+	"sdk_errors.h"
+	"sdk_config.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uart.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uarte.h
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1585793566 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.h
+	<stdint.h>
+	<stdbool.h>
+	"app_util_platform.h"
+
+1615120995 c:\(202)__teia_stag_001v\teia_stag_20210217\main.h
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.c
+	"sdk_common.h"
+	"nrf_drv_wdt.h"
+	"nrf_drv_common.h"
+	"nrf_error.h"
+	"nrf_assert.h"
+	"nrf_wdt.h"
+	"app_util_platform.h"
+	<stdbool.h>
+	<stdint.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_wdt.h"
+	"sdk_config.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_wdt.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.c
+	"nrf_dfu_mbr.h"
+	"nrf_mbr.h"
+	"nrf_dfu_types.h"
+	"nrf_log.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.h
+	<stdint.h>
+
+1493957430 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf52\nrf_mbr.h
+	"nrf_svc.h"
+	<stdint.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_types.h
+	<stdint.h>
+	<stddef.h>
+	"nrf_mbr.h"
+	"nrf_sdm.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.c
+	"sdk_common.h"
+	"app_fifo.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.h
+	<stdint.h>
+	<stdlib.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_backend_serial.c
+	"sdk_common.h"
+	"nrf_log_backend.h"
+	"nrf_error.h"
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<SEGGER_RTT_Conf.h>
+	<SEGGER_RTT.h>
+	"nrf_drv_uart.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_backend.h
+	"nrf_log_ctrl.h"
+	"sdk_errors.h"
+	<stdbool.h>
+
+1493957434 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1585797850 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\\nrf_drv_uart.h
+	"nrf_uart.h"
+	"nrf_uarte.h"
+	"sdk_errors.h"
+	"sdk_config.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_frontend.c
+	"sdk_common.h"
+	"app_util.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_internal.h"
+	"nrf_log_backend.h"
+	"nrf_log_ctrl.h"
+	<string.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.c
+	"sdk_common.h"
+	"mem_manager.h"
+	"nrf_assert.h"
+	"nrf_log.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.h
+	"sdk_common.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.c
+	"sdk_common.h"
+	"app_uart.h"
+	"nrf_drv_uart.h"
+	"nrf_assert.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.c
+	"nrf.h"
+	<stdio.h>
+	"app_error.h"
+	"nordic_common.h"
+	"sdk_errors.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nordic_common.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.h
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.c
+	"app_error.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.c
+	"app_util_platform.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c
+	"nrf_assert.h"
+	"app_error.h"
+	"nordic_common.h"
+
+1493961054 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.c
+	"sdk_errors.h"
+	"nordic_common.h"
+
+1493961056 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.c
+	"softdevice_handler.h"
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"app_error.h"
+	"nrf_drv_rng.h"
+	"nrf_log.h"
+	"ant_interface.h"
+	"ant_interface.h"
+	"ble.h"
+
+1493957450 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.c
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"system_nrf52.h"
+
+1493957450 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.h
+	<stdint.h>
+
+1493957434 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\rtt_syscalls_gcc.c
+	<stdlib.h>
+	"SEGGER_RTT.h"
+
+1493957434 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1493957434 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.c
+	"SEGGER_RTT.h"
+	<string.h>
+
+1493957434 source:c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_printf.c
+	"SEGGER_RTT.h"
+	"SEGGER_RTT_Conf.h"
+	<stdlib.h>
+	<stdarg.h>
+
+1615120995 source:c:\(202)__teia_stag_001v\teia_stag_20210217\application\teia_routines.c
+	<stdlib.h>
+	<string.h>
+	"Teia_routines.h"
+	"../platform/peripheral.h"
+	"../platform/timing.h"
+	"../platform/DWM_routines.h"
+	"../Teia_var.h"
+	"nrf.h"
+	"LIS2DH12.h"
+	"nrf_peripherals.h"
+	"../drivers/radios/DWM/deca_device_api.h"
+	"nrf_delay.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"../../Teia_STAG_20210217/main.h"
+	"app_uart.h"
+
+1615120995 c:\(202)__teia_stag_001v\teia_stag_20210217\application\teia_routines.h
+	<stdbool.h>
+	<stdint.h>
+
+1615033303 c:\(202)__teia_stag_001v\teia_stag_20210217\platform\peripheral.h
+	<stdint.h>
+	<stdbool.h>
+	<stddef.h>
+	"app_uart.h"
+
+1610239292 c:\(202)__teia_stag_001v\teia_stag_20210217\platform\timing.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_config.h"
+
+1610238920 c:\(202)__teia_stag_001v\teia_stag_20210217\platform\dwm_routines.h
+	<stdint.h>
+	<stdbool.h>
+
+1613615682 c:\(202)__teia_stag_001v\teia_stag_20210217\teia_var.h
+	<stdint.h>
+	<stdbool.h>
+	"platform/setting.h"
+
+1610239212 c:\(202)__teia_stag_001v\teia_stag_20210217\platform\setting.h
+
+1610239004 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\sensors\lis2dh12.h
+	<stdbool.h>
+	<stdint.h>
+
+1610267222 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_device_api.h
+	<stdint.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\\nrf_drv_gpiote.h
+	"nrf_gpiote.h"
+	"nrf_gpio.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"sdk_config.h"
+
+1613641742 source:c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_device.c
+	<stdio.h>
+	"deca_types.h"
+	"deca_param_types.h"
+	"deca_regs.h"
+	"deca_device_api.h"
+	"../../../platform/timing.h"
+	"../../../main.h"
+
+1610264362 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_types.h
+
+1610264226 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_param_types.h
+	"deca_types.h"
+
+1610238806 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_regs.h
+	"deca_version.h"
+
+1610238876 c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_version.h
+
+1610264198 source:c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_params_init.c
+	<stdio.h>
+	<stdlib.h>
+	"deca_regs.h"
+	"deca_device_api.h"
+	"deca_param_types.h"
+
+1610264326 source:c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\radios\dwm\deca_range_tables.c
+	<stdio.h>
+	<stdlib.h>
+	"deca_device_api.h"
+	"deca_param_types.h"
+
+1615032897 source:c:\(202)__teia_stag_001v\teia_stag_20210217\drivers\sensors\lis2dh12.c
+	"LIS2DH12.h"
+	"../../Teia_var.h"
+	"../../platform/peripheral.h"
+
+1578379064 source:c:\(202)__teia_stag_001v\teia_stag_20210217\gcc_startup_nrf52.s
+	"startup_config.h"
+
+1615092491 source:c:\(202)__teia_stag_001v\teia_stag_20210217\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"peripheral.h"
+	"Teia_routines.h"
+	"Teia_var.h"
+	"timing.h"
+	"main.h"
+	"app_uart.h"
+
+1614959284 source:c:\(202)__teia_stag_001v\teia_stag_20210217\platform\dwm_routines.c
+	"DWM_routines.h"
+	"peripheral.h"
+	"timing.h"
+	"../Teia_var.h"
+	<string.h>
+	"../drivers/radios/DWM/deca_device_api.h"
+	"../drivers/radios/DWM/deca_regs.h"
+	"../../../main.h"
+
+1615103972 source:c:\(202)__teia_stag_001v\teia_stag_20210217\platform\peripheral.c
+	"peripheral.h"
+	"setting.h"
+	"port_def.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_spi.h"
+	"nrf_drv_twi.h"
+	"nrf_drv_clock.h"
+	"nrf_drv_rtc.h"
+	"nrf_drv_power.h"
+	"nrf_drv_wdt.h"
+	"nrf_drv_saadc.h"
+	"nrf_nvmc.h"
+	<string.h>
+	<stdarg.h>
+	"SEGGER_RTT.h"
+	"timing.h"
+	"../Teia_var.h"
+	"app_uart.h"
+	"app_error.h"
+	"nrf_delay.h"
+	"nrf.h"
+	"bsp.h"
+	"../drivers/radios/DWM/deca_device_api.h"
+
+1610265170 c:\(202)__teia_stag_001v\teia_stag_20210217\platform\port_def.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\\nrf_drv_spi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_peripherals.h"
+	"nrf_spi.h"
+	"nrf_spim.h"
+	"sdk_errors.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_nvmc.h
+	<stdint.h>
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bsp\\bsp.h
+	<stdint.h>
+	<stdbool.h>
+	"boards.h"
+	"app_button.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\boards.h
+	"nrf_gpio.h"
+	"nrf6310.h"
+	"pca10000.h"
+	"pca10001.h"
+	"pca10000.h"
+	"pca10003.h"
+	"pca20006.h"
+	"pca10028.h"
+	"pca10031.h"
+	"pca10036.h"
+	"pca10040.h"
+	"pca10056.h"
+	"wt51822.h"
+	"n5_starterkit.h"
+	"d52_starterkit.h"
+	"arduino_primo.h"
+	"custom_board.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\nrf6310.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10000.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10001.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10003.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca20006.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10028.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10031.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10036.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10040.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\pca10056.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\wt51822.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\n5_starterkit.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\d52_starterkit.h
+	"nrf_gpio.h"
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\boards\\arduino_primo.h
+
+1493961054 c:\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\button\\app_button.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"app_error.h"
+	"nrf_gpio.h"
+
+1613547036 source:c:\(202)__teia_stag_001v\teia_stag_20210217\platform\timing.c
+	"timing.h"
+	"peripheral.h"
+	"nrf_drv_rtc.h"
+	"nrf_delay.h"
+	"../Teia_var.h"
+	<stdlib.h>
+
+1613547036 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\platform\timing.c
+	"timing.h"
+	"peripheral.h"
+	"nrf_drv_rtc.h"
+	"nrf_delay.h"
+	"../Teia_var.h"
+	<stdlib.h>
+
+1610239292 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\platform\timing.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_config.h"
+
+1584860646 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\config\sdk_config.h
+	"app_config.h"
+
+1615033302 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\platform\peripheral.h
+	<stdint.h>
+	<stdbool.h>
+	<stddef.h>
+	"app_uart.h"
+
+1585793566 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.h
+	<stdint.h>
+	<stdbool.h>
+	"app_util_platform.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\compiler_abstraction.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf.h
+	"nrf51.h"
+	"nrf51_bitfields.h"
+	"nrf51_deprecated.h"
+	"nrf52840.h"
+	"nrf52840_bitfields.h"
+	"nrf51_to_nrf52840.h"
+	"nrf52_to_nrf52840.h"
+	"nrf52.h"
+	"nrf52_bitfields.h"
+	"nrf51_to_nrf52.h"
+	"nrf52_name_change.h"
+	"compiler_abstraction.h"
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51.h
+	"core_cm0.h"
+	"system_nrf51.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_armcc_v6.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\cmsis_gcc.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf51.h
+	<stdint.h>
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_bitfields.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_deprecated.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840.h
+	"core_cm4.h"
+	"system_nrf52840.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\cmsis\include\\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52840.h
+	<stdint.h>
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_bitfields.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52840.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_to_nrf52840.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52.h
+	"core_cm4.h"
+	"system_nrf52.h"
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\\system_nrf52.h
+	<stdint.h>
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_bitfields.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51_to_nrf52.h
+
+1493957452 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52_name_change.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_soc.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_svc.h
+	"stdint.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_soc.h
+	"nrf_error.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_nvic.h
+	<stdint.h>
+	"nrf.h"
+	"nrf_error_soc.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nordic_common.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_error_weak.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.h
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_drv_common.h"
+	"nrf_rtc.h"
+	"sdk_errors.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_common.h
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdk_config.h"
+	"nordic_common.h"
+	"compiler_abstraction.h"
+	"sdk_os.h"
+	"sdk_errors.h"
+	"app_util.h"
+	"sdk_macros.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_os.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\app_util.h
+	<stdint.h>
+	<stdbool.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\sdk_macros.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_rtc.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_peripherals.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_peripherals.h
+	"nrf51422_peripherals.h"
+	"nrf51802_peripherals.h"
+	"nrf51822_peripherals.h"
+	"nrf52832_peripherals.h"
+	"nrf52840_peripherals.h"
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51422_peripherals.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51802_peripherals.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf51822_peripherals.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52832_peripherals.h
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\device\\nrf52840_peripherals.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\delay\\nrf_delay.h
+	"nrf.h"
+
+1613615682 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\teia_var.h
+	<stdint.h>
+	<stdbool.h>
+	"platform/setting.h"
+
+1610239212 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\platform\setting.h
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.c
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"nrf_error.h"
+	"app_util_platform.h"
+	"softdevice_handler.h"
+	"nrf_sdm.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\clock\nrf_drv_clock.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_assert.h"
+	"nrf_clock.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_clock.h
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961056 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.h
+	<stdlib.h>
+	"nordic_common.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"ble_stack_handler_types.h"
+	"ant_stack_handler_types.h"
+	"ble.h"
+	"app_ram_base.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_sdm.h
+	"nrf_svc.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_error_sdm.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf_error_sdm.h
+	"nrf_error.h"
+
+1493961056 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ble_stack_handler_types.h
+	<stdlib.h>
+	"ble.h"
+	"nrf_sdm.h"
+	"app_error.h"
+	"app_util.h"
+	"sdk_config.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble.h
+	"ble_ranges.h"
+	"ble_types.h"
+	"ble_gap.h"
+	"ble_l2cap.h"
+	"ble_gatt.h"
+	"ble_gattc.h"
+	"ble_gatts.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_ranges.h
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_types.h
+	<stdint.h>
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_l2cap.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_err.h"
+	"nrf_svc.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_err.h
+	"nrf_error.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatt.h
+	"ble_types.h"
+	"ble_ranges.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gattc.h
+	"ble_gatt.h"
+	"ble_types.h"
+	"ble_ranges.h"
+	"nrf_svc.h"
+	"nrf_error.h"
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\ble_gatts.h
+	"ble_types.h"
+	"ble_ranges.h"
+	"ble_l2cap.h"
+	"ble_gap.h"
+	"ble_gatt.h"
+	"nrf_svc.h"
+
+1493961056 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\ant_stack_handler_types.h
+	<stdlib.h>
+	<stdint.h>
+
+1493961056 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\app_ram_base.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log.h
+	"sdk_config.h"
+	"nrf_log_internal.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_ctrl.h
+	"sdk_config.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"nrf_log_ctrl_internal.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\\nrf_log_ctrl_internal.h
+	"sdk_common.h"
+	"app_util_platform.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.c
+	<stddef.h>
+	"nrf_drv_common.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_peripherals.h"
+	"nrf_drv_power.h"
+	"nrf_drv_clock.h"
+	"nrf_soc.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\common\nrf_drv_common.h
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"sdk_common.h"
+	"nrf_assert.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.h
+	<stdbool.h>
+	<stdint.h>
+	"nrf_power.h"
+	"sdk_config.h"
+	"nrf_drv_common.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_power.h
+	"nrf.h"
+	"sdk_config.h"
+	"nordic_common.h"
+	"nrf_assert.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.c
+	"sdk_common.h"
+	"nrf_drv_gpiote.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_assert.h"
+	"nrf_bitmask.h"
+	<string.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\gpiote\nrf_drv_gpiote.h
+	"nrf_gpiote.h"
+	"nrf_gpio.h"
+	"sdk_errors.h"
+	<stdint.h>
+	<stdbool.h>
+	"sdk_config.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpiote.h
+	"nrf_peripherals.h"
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_gpio.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	"nrf_assert.h"
+	<stdbool.h>
+	<stdlib.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\\nrf_bitmask.h
+	"compiler_abstraction.h"
+	<stdint.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.c
+	<stdbool.h>
+	"nrf.h"
+	"nrf_nvmc.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_nvmc.h
+	<stdint.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.c
+	"sdk_config.h"
+	"nrf_saadc.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\power\nrf_drv_power.c
+	"sdk_config.h"
+	"nrf_drv_power.h"
+	"nrf_assert.h"
+	"nordic_common.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\rtc\nrf_drv_rtc.c
+	"sdk_common.h"
+	"nrf_drv_rtc.h"
+	"nrf_rtc.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1594781428 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.c
+	"sdk_common.h"
+	"nrf_drv_saadc.h"
+	"nrf_assert.h"
+	"nrf_drv_common.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\saadc\nrf_drv_saadc.h
+	"sdk_config.h"
+	"nrf_saadc.h"
+	"sdk_errors.h"
+	"nrf_drv_common.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_saadc.h
+	<stdbool.h>
+	<stddef.h>
+	"nrf.h"
+	"nrf_assert.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.c
+	"sdk_common.h"
+	"nrf_drv_spi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\spi_master\nrf_drv_spi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_peripherals.h"
+	"nrf_spi.h"
+	"nrf_spim.h"
+	"sdk_errors.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spi.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_spim.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.c
+	"sdk_common.h"
+	"nrf_drv_twi.h"
+	"nrf_drv_common.h"
+	"nrf_gpio.h"
+	"nrf_assert.h"
+	"app_util_platform.h"
+	"nrf_delay.h"
+	<stdio.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\twi_master\nrf_drv_twi.h
+	"nordic_common.h"
+	"sdk_config.h"
+	"nrf_twi.h"
+	"nrf_twim.h"
+	"sdk_errors.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twi.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf_peripherals.h"
+	"nrf.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_twim.h
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+	"nrf.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.c
+	"sdk_common.h"
+	"nrf_drv_wdt.h"
+	"nrf_drv_common.h"
+	"nrf_error.h"
+	"nrf_assert.h"
+	"nrf_wdt.h"
+	"app_util_platform.h"
+	<stdbool.h>
+	<stdint.h>
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\wdt\nrf_drv_wdt.h
+	<stdbool.h>
+	<stdint.h>
+	"sdk_errors.h"
+	"nrf_wdt.h"
+	"sdk_config.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_wdt.h
+	<stddef.h>
+	<stdbool.h>
+	<stdint.h>
+	"nrf.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.c
+	"nrf_dfu_mbr.h"
+	"nrf_mbr.h"
+	"nrf_dfu_types.h"
+	"nrf_log.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_mbr.h
+	<stdint.h>
+
+1493957430 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\s132\headers\nrf52\nrf_mbr.h
+	"nrf_svc.h"
+	<stdint.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\bootloader\dfu\nrf_dfu_types.h
+	<stdint.h>
+	<stddef.h>
+	"nrf_mbr.h"
+	"nrf_sdm.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.c
+	"sdk_common.h"
+	"app_fifo.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\fifo\app_fifo.h
+	<stdint.h>
+	<stdlib.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_backend_serial.c
+	"sdk_common.h"
+	"nrf_log_backend.h"
+	"nrf_error.h"
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<SEGGER_RTT_Conf.h>
+	<SEGGER_RTT.h>
+	"nrf_drv_uart.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\\nrf_log_backend.h
+	"nrf_log_ctrl.h"
+	"sdk_errors.h"
+	<stdbool.h>
+
+1493957434 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1585797850 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\uart\\nrf_drv_uart.h
+	"nrf_uart.h"
+	"nrf_uarte.h"
+	"sdk_errors.h"
+	"sdk_config.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uart.h
+	"nrf.h"
+	"nrf_peripherals.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\\nrf_uarte.h
+	"nrf.h"
+	<stdint.h>
+	<stddef.h>
+	<stdbool.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_frontend.c
+	"sdk_common.h"
+	"app_util.h"
+	"app_util_platform.h"
+	"nrf_log.h"
+	"nrf_log_internal.h"
+	"nrf_log_backend.h"
+	"nrf_log_ctrl.h"
+	<string.h>
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\log\src\nrf_log_internal.h
+	"sdk_common.h"
+	"nrf.h"
+	"nrf_error.h"
+	"app_util.h"
+	<stdint.h>
+	<stdbool.h>
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.c
+	"sdk_common.h"
+	"mem_manager.h"
+	"nrf_assert.h"
+	"nrf_log.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\mem_manager\mem_manager.h
+	"sdk_common.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\uart\app_uart.c
+	"sdk_common.h"
+	"app_uart.h"
+	"nrf_drv_uart.h"
+	"nrf_assert.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.c
+	"nrf.h"
+	<stdio.h>
+	"app_error.h"
+	"nordic_common.h"
+	"sdk_errors.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h
+	<stdint.h>
+	<stdio.h>
+	<stdbool.h>
+	"nrf.h"
+	"sdk_errors.h"
+	"nordic_common.h"
+	"app_error_weak.h"
+	"ant_error.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.h
+	<stdint.h>
+	"nrf_error.h"
+	"sdk_config.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nordic_common.h
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.h
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error_weak.c
+	"app_error.h"
+	"nrf_log.h"
+	"nrf_log_ctrl.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.c
+	"app_util_platform.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util_platform.h
+	<stdint.h>
+	"compiler_abstraction.h"
+	"nrf.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"nrf_assert.h"
+	"app_error.h"
+
+1493961054 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.h
+	<stdint.h>
+	"nrf.h"
+	"app_error.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c
+	"nrf_assert.h"
+	"app_error.h"
+	"nordic_common.h"
+
+1493961054 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\sdk_errors.c
+	"sdk_errors.h"
+	"nordic_common.h"
+
+1493961056 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\softdevice\common\softdevice_handler\softdevice_handler.c
+	"softdevice_handler.h"
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	"nrf.h"
+	"nrf_assert.h"
+	"nrf_soc.h"
+	"nrf_nvic.h"
+	"sdk_common.h"
+	"nrf_drv_clock.h"
+	"app_error.h"
+	"nrf_drv_rng.h"
+	"nrf_log.h"
+	"ant_interface.h"
+	"ant_interface.h"
+	"ble.h"
+
+1493957450 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.c
+	<stdint.h>
+	<stdbool.h>
+	"nrf.h"
+	"system_nrf52.h"
+
+1493957450 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\components\toolchain\system_nrf52.h
+	<stdint.h>
+
+1493957434 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\rtt_syscalls_gcc.c
+	<stdlib.h>
+	"SEGGER_RTT.h"
+
+1493957434 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.h
+	"SEGGER_RTT_Conf.h"
+
+1493957434 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_conf.h
+	"sdk_config.h"
+	"compiler_abstraction.h"
+	"app_util_platform.h"
+	<intrinsics.h>
+
+1493957434 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt.c
+	"SEGGER_RTT.h"
+	<string.h>
+
+1493957434 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\nrf5_sdk_12.3.0_d7731ad\external\segger_rtt\segger_rtt_printf.c
+	"SEGGER_RTT.h"
+	"SEGGER_RTT_Conf.h"
+	<stdlib.h>
+	<stdarg.h>
+
+1578379064 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\gcc_startup_nrf52.s
+	"startup_config.h"
+
+1615782191 source:b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"main.h"
+	"app_uart.h"
+
+1615782312 b:\keti 과제\0000~0000-펌웨어작업\(202)__teia_stag_001v\teia_stag_20210217\main.h
+

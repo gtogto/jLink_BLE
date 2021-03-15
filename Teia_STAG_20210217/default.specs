@@ -1,0 +1,11 @@
+%rename link_gcc_c_sequence                def_link_gcc_c_sequence
+
+*def_libc:
+-lc
+
+*def_libgloss:
+%{specs=rdimon.specs:-lrdimon} %{specs=ebmon.specs:-lebmon} -lnosys
+
+*link_gcc_c_sequence:
+%(def_link_gcc_c_sequence) --start-group %G %(def_libc) %(def_libgloss) --end-group
+
